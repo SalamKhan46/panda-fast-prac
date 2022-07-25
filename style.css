@@ -1,0 +1,26 @@
+.banner-item{
+    background: #feeae9;
+    border-radius: 25px;
+}
+.btn-color{
+    background:linear-gradient(#FF2F3A,#FF3C83);
+    color: #fff;
+}
+.pink{
+    color: #FF3C83;
+}
+.catg{
+    border-radius: 25px;
+}
+.yellow{
+    background:linear-gradient(120deg,#FED54A, #FF9347);
+}
+.carot{
+    background:linear-gradient(120deg,#E1A2B8, #9F2BC1);
+}
+.blue{
+    background:linear-gradient(120deg,#78a2ef, #5B54FA);
+}
+.card {
+    border: none;
+}
